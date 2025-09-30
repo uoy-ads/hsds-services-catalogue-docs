@@ -12,12 +12,12 @@ Use the menu on the left to find services that match your specific needs. The se
 * Method/Techniques - Browse available analytical methods, organised by overall technique type and relevant subcategories
 * Asset Types - Find services suited to your specific materials or objects
 
-Combine multiple filters to narrow your results and identify the most suitable facilities for your research. Use the 'Reset Filters' button at the bottom to return to the complete service listing.
+Combine multiple filters to narrow your results and identify the most suitable facilities for your research. Use the **'Reset Filters'** button at the bottom to return to the complete service listing.
 
 ## Search Results
 
 ![HSDS Data Catalogue search results page](assets/hsds_service_catalogue_eg.png){ width="850" }
-<p align=center><i>Search results page</i></p>
+<p align=center><i></i></p>
 
 Your filtered results display as a list, with each service showing:
 
@@ -32,9 +32,9 @@ Your filtered results display as a list, with each service showing:
 
 ## Service Page
 
-Click 'View Service' from any search result to see the full details. Each service page provides:
+Click **'View Service'** from any search result to see the full details. Each service page provides:
 
-* Organisation details, location, and direct contact person (displayed in the left sidebar for easy reference)
+* Service Details - Summary of key organisation details including the location and contact details person (displayed in the left sidebar for easy reference)
 * Service Overview - Comprehensive description of capabilities and services offered
 * Technical Specifications
     * Techniques - Complete list of analytical methods available
@@ -44,4 +44,9 @@ Click 'View Service' from any search result to see the full details. Each servic
 This detailed view gives you all the information needed to assess whether a service meets your research requirements and how to get in touch.
 
 ![HSDS Catalogue of Services Service Page](assets/hsds_service_page.png){ width="850" }
-<p align=center><i>Service page</i></p>
+<p align=center><i></i></p>
+
+!!! Info "**Please note**"
+
+    Commencement Date, found in the left sidebar, provides the date when this service will be available for use.
+-----
