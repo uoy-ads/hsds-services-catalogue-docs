@@ -32,8 +32,9 @@ Your filtered results display as a list, with each service showing:
 
 ## Service Page
 
-* Click 'View Service' from any search result to see the full details. Each service page provides:
-Organisation details, location, and direct contact person (displayed in the left sidebar for easy reference)
+Click 'View Service' from any search result to see the full details. Each service page provides:
+
+* Organisation details, location, and direct contact person (displayed in the left sidebar for easy reference)
 * Service Overview - Comprehensive description of capabilities and services offered
 * Technical Specifications
     * Techniques - Complete list of analytical methods available
