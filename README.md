@@ -30,4 +30,6 @@ If you would like to learn more about the Heritage Science Data Service please v
 * HSDS Instagram :star2: [@heritagesciencedataservice](https://www.instagram.com/heritagescience_dataservice/)
 * HSDS LinkedIn :link: [Heritage Science Data Service](https://www.linkedin.com/company/heritage-science-data-service)
 
-This guide was prepared by [Dr Nicky Garland](https://github.com/nickyjgarland).
+## Acknowledgements
+
+This guide was prepared by [Dr Nicky Garland](https://github.com/nickyjgarland) and Dr Ewan Chipping.
