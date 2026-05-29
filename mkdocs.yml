@@ -1,5 +1,5 @@
 
-site_name: Catalogue of Services Guide
+site_name: HSDS Catalogue of Services Guide
 site_author: Heritage Science Data Service
 repo_name: hsds-services-catalogue-docs
 site_url: https://github.com/uoy-ads/hsds-services-catalogue-docs/
@@ -15,6 +15,7 @@ theme:
     - navigation.sections    # Groups top-level sections in sidebar
     - navigation.instant     # Faster page transitions
     - navigation.top         # Back-to-top button
+    - navigation.footer
   palette:
     # Dark Mode
     - scheme: slate
@@ -54,9 +55,16 @@ extra:
     - icon: simple/instagram
       link: https://www.instagram.com/heritagescience_dataservice/
       name: HSDS Instagram
-copyright: Copyright &copy; 2025 - Heritage Science Data Service
+copyright: Copyright &copy; 2026 - Heritage Science Data Service
 
 nav:
   - Home: index.md
-  - Searching the Catalogue: Section-0_Searching_HSDS_Services_Catalogue.md
-  - Apply for RICHeS Access: Section-1_Apply_RICHES_Access.md
+  - Searching the Catalogue: Section_1a_Searching_HSDS_Services_Catalogue.md
+  - Service Pages: Section_1b_Service_Page.md
+  - Apply for RICHeS Access: Section_1c_Apply_RICHES_Access.md
+  - Publishing Your Service to the Catalogue: 
+    - Introduction: Section_2_Service_Users.md
+    - Register via UMA: Section_2a_Register_via_UMA.md
+    - Log into the Catalogue: Section_2b_Log_into_the_Catalogue.md
+    - Create and editing entries: Section_2c_Create_and_Edit_Entries.md
+    - Manage tools, metadata and other info: Section_2d_Manage_Entries.md
