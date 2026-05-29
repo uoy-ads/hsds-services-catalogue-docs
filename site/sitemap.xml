@@ -2,30 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/</loc>
-         <lastmod>2026-02-10</lastmod>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section-0_Searching_HSDS_Services_Catalogue/</loc>
-         <lastmod>2026-02-10</lastmod>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_1a_Searching_HSDS_Services_Catalogue/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section-1_Apply_RICHES_Access/</loc>
-         <lastmod>2026-02-10</lastmod>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_1b_Service_Page/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section-2_Service_Users/</loc>
-         <lastmod>2026-02-10</lastmod>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_1c_Apply_RICHES_Access/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section-2a/</loc>
-         <lastmod>2026-02-10</lastmod>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_2_Service_Users/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section-2b/</loc>
-         <lastmod>2026-02-10</lastmod>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_2a_Register_via_UMA/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section-2c/</loc>
-         <lastmod>2026-02-10</lastmod>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_2b_Log_into_the_Catalogue/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_2c_Create_and_Edit_Entries/</loc>
+         <lastmod>2026-05-18</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-services-catalogue-docs/Section_2d_Manage_Entries/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
 </urlset>
