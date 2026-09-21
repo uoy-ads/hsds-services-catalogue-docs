@@ -1,5 +1,5 @@
 ---
-title: Service User Providers Guide - Section 2
+title: Service Provider User Guide - Section 2
 description: how to log in to the Catalogue of Services
 ---
 
