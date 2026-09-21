@@ -1,6 +1,6 @@
 ---
 title: Service Provider User Guide
-description: A guide for service users to add and update their profiles
+description: A guide for service providers to add and update their profiles
 ---
 
 # Introduction
