@@ -1,5 +1,5 @@
 ---
-title: Service User Providers Guide - Section 3
+title: Service Provider User Guide - Section 3
 description: Navigating the service provider dashboard
 ---
 
