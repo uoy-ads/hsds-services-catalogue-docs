@@ -1,5 +1,5 @@
 ---
-title: Service User Providers Guide - Section 1
+title: Service Provider User Guide - Section 1
 description: How to register for access via UMA
 ---
 
