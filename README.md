@@ -2,7 +2,7 @@
 
 # Introduction
 
-Welcome to the repository for the User Guide for the HSDS Catalogue of Services. The guide and this repository is maintined by staff at the [Heritage Science Data Service](https://hsds.ac.uk/).
+Welcome to the repository for the User Guide for the HSDS Catalogue of Services. The guide and this repository is maintained by staff at the [Heritage Science Data Service](https://hsds.ac.uk/).
 
 This User Guide has been created as a reference manual for end users of the [HSDS Catalogue of Services](https://hsds.ac.uk/services-catalogue). 
 
@@ -22,7 +22,7 @@ See the [LICENSE](LICENSE.md) file for the full license text.
 
 If you have any questions about this guide or the repository please contact the HSDS Helpdesk (help@hsds.ac.ukk).
 
-If you would like to learn more about the Heritage Science Data Service please visit our [website](https://hsds.ac.uk/)). All the latest News can be found on our [News and Events](https://hsds.ac.uk/news-event/) pages. You can also sign up to recieve HSDS updates via the [Archaeology Data Service quarterly e-newsletter](https://archaeologydataservice.ac.uk/news-events/signup-ads-newsletter/), or follow us via social media.
+If you would like to learn more about the Heritage Science Data Service please visit our [website](https://hsds.ac.uk/). All the latest News can be found on our [News and Events](https://hsds.ac.uk/news-event/) pages. You can also sign up to receive HSDS updates via the [Archaeology Data Service quarterly e-newsletter](https://archaeologydataservice.ac.uk/news-events/signup-ads-newsletter/), or follow us via social media.
 
 ## Social Media channels
 
@@ -30,6 +30,4 @@ If you would like to learn more about the Heritage Science Data Service please v
 * HSDS Instagram :star2: [@heritagesciencedataservice](https://www.instagram.com/heritagescience_dataservice/)
 * HSDS LinkedIn :link: [Heritage Science Data Service](https://www.linkedin.com/company/heritage-science-data-service)
 
-## Acknowledgements
-
-This guide was prepared by [Dr Nicky Garland](https://github.com/nickyjgarland) and Dr Ewan Chipping.
+This guide was prepared by [Dr Nicky Garland](https://github.com/nickyjgarland) and [Dr Ewan Chipping](https://www.york.ac.uk/archaeology/people/ewan-chipping/).

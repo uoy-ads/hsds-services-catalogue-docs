@@ -60,3 +60,9 @@ nav:
   - Home: index.md
   - Searching the Catalogue: Section-0_Searching_HSDS_Services_Catalogue.md
   - Apply for RICHeS Access: Section-1_Apply_RICHES_Access.md
+  - Service Provider User Guide: 
+    - Introduction: Section-2_Service_Users.md
+    - Register via UMA: Section-2a.md
+    - Log into the Catalogue: Section-2b.md
+    - Service Provider Dashboard: Section-2c.md
+    - Create and editing entries: Section-2d.md
