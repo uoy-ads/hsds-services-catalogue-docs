@@ -1,5 +1,5 @@
 ---
-title: Service User Providers Guide - Section 4
+title: Service Provider User Guide - Section 4
 description: How to add and update a service profiles
 ---
 
