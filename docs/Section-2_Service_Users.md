@@ -1,5 +1,5 @@
 ---
-title: Service User Providers Guide
+title: Service Provider's User Guide
 description: A guide for service users to add and update their profiles
 ---
 
