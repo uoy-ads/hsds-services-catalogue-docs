@@ -5,7 +5,7 @@ description: A guide for service users to add and update their profiles
 
 # Introduction
 
-As a service provider you can add a service(s) and edit the information presented to users in the public view of the catalogue. You can choose the information about your service that the heritage science community can discover including how to access your research facilities, what methods you offer, and organisational contacts.
+As a service provider you can add a service(s) and edit the information presented to users in the public view of the catalogue. You can choose which information about your service the heritage science community can discover, including how to access your research facilities, what methods you offer, and your organisational contact details.
 
 This guide explains how to:
 
