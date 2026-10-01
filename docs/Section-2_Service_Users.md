@@ -14,5 +14,14 @@ This guide explains how to:
 * [Navigate and understand the Service Provider dashboard](./Section-2c.md)
 * [Create, edit, and publish service entries](./Section-2d.md)
 
-![Add Service button](assets/services_1.png){ width="850" }
-<p align=center><i></i></p>
+
+Watch the video below to find out more:
+
+<div style="position:relative; padding-bottom:56.25%; height:0;">
+  <iframe src="https://www.youtube.com/embed/1ZdJA-eDdZU?si=b_14wKl_p1XaoyDL"
+    title="HSDS Catalogue of Services" frameborder="0"
+    allow="encrypted-media; picture-in-picture"
+    referrerpolicy="strict-origin-when-cross-origin"
+    style="position:absolute; top:0; left:0; width:100%; height:100%;"
+    allowfullscreen></iframe>
+</div>
